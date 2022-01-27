@@ -19,3 +19,5 @@ En la API se encuentran tres servicios.
  * Obtener todas las respeusta de la encuesta.
  * Guardar una encuesta.
 
+## TEST UNIT
+Se implementaron pruebas unitarias con la libreria *Junit* para la capa de implementacion de los servicios. 
